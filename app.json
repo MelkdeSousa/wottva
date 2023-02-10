@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "wottva",
+    "slug": "wottva",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
